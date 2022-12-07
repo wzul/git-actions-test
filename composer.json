@@ -1,0 +1,19 @@
+{
+    "name": "wanzulkarnain/git-actions-test",
+    "description": "test",
+    "type": "library",
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "Wanzulkarnain\\GitActionsTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Wan Zulkarnain",
+            "email": "wanzulkarnain69@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
